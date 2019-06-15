@@ -1,4 +1,4 @@
-module github.com/dmksnnk/sentryhook
+module github.com/hazcod/sentryhook
 
 go 1.12
 
